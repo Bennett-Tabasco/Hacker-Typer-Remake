@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
+
+* {
+    font-family: Fira Code, sans-serif;
+    background-color: black;
+    color: #3ed33e;
+
+}
+
+body::-webkit-scrollbar {
+    background-color: black
+}
+
+body {
+    margin: 0
+}
+
+#bitcoin {
+    position: fixed;
+    right: 0;
+    margin-right: 15px;
+    bottom: 0
+
+}
+
+a {
+    background-color: yellow;
+}
