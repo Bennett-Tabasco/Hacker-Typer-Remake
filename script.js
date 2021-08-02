@@ -40,6 +40,6 @@ function Void() {
     if (answer === "https://www.youtube.com/watch?v=BggrpKfqh1c") {
         location.href = "./null.html";
     } else {
-        prompt("Null");
+        alert("Null");
     }
 }
